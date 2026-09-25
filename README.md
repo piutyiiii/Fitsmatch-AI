@@ -41,7 +41,7 @@ AI was used to assist with the implementation and development process, while the
 3. Explore the FitsMatch AI features.
 
 ## 🔗 Live Demo
-[Open FitsMatch AI]
+[[Open FitsMatch AI]](https://piutyiiii.github.io/Fitsmatch-AI/)
 
 ## 📌 Note
 
